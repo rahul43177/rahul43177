@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 - 🌱 I’m currently learning **React JS , AWS **
@@ -31,7 +31,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul43177&theme=" alt="rahul43177" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
 <div align="center">
 <a href="https://github.com/rahul43177">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahul43177&theme=2077" height="180em" />
