@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
--  🌱 I’m currently learning  **React JS , AWS**
 -  📫 How to reach me **rahulmishra4317@gmail.com**
 -  📄 Know about my experiences **https://drive.google.com/file/d/1tiqRtF5sfNG40GSJrNZ6PSxZsjJqDCVB/view?usp=sharing**
 
