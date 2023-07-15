@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 - 🌱 I’m currently learning **React JS , AWS **
-
 - 📫 How to reach me **rahulmishra4317@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1tiqRtF5sfNG40GSJrNZ6PSxZsjJqDCVB/view?usp=sharing**
 
@@ -36,5 +35,5 @@
 <a href="https://github.com/rahul43177">
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul43177&theme=default"/>
