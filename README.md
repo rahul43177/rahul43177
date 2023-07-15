@@ -27,14 +27,13 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul43177&show_icons=true&locale=en&theme=default" alt="rahul43177" /></p>
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul43177&theme=" alt="rahul43177" /></p>
 
 
 <div align="center">
 <a href="https://github.com/rahul43177">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahul43177&theme=2077" height="180em" />
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
